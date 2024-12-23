@@ -1,4 +1,4 @@
-from src.evaluate_combined import evaluate
+from src.evaluate import evaluate
 
 # Define paths to model and datasets
 model_path = "mcnn_finetuned_v2.pth"  # Path to your trained model
